@@ -1,5 +1,7 @@
 # Clínica Azul – Operational and Financial Analysis
 
+Link: https://docs.google.com/spreadsheets/d/1rYSs7-24-MS53VNVUyuatEQoEj7Pa49tOcnfWxHh2ZY/edit?usp=sharing
+
 ## Description
 
 Project carried out at Unicorn's Data Analysis Bootcamp, focused on creating interactive dashboards in Google Sheets for Clínica Azul, an organisation providing comprehensive care to people in vulnerable situations.
@@ -39,13 +41,13 @@ Operational Dashboard
 * Create integrated service packages and improve re-engagement protocols
 * Adjust capacity plans according to seasonality and concentration of key services
 
-Link: https://docs.google.com/spreadsheets/d/1rYSs7-24-MS53VNVUyuatEQoEj7Pa49tOcnfWxHh2ZY/edit?usp=sharing
-
 
 ---------------------------------------------------------------------------------------
 
 
 ## Clínica Azul – Análisis Operativo y Financiero
+
+Enlace: https://docs.google.com/spreadsheets/d/1rYSs7-24-MS53VNVUyuatEQoEj7Pa49tOcnfWxHh2ZY/edit?usp=sharing
 
 # Descripción
 
@@ -86,7 +88,4 @@ Dashboard Operativo
 * Replicar factores que impulsaron el crecimiento de octubre 2023
 * Crear paquetes integrados de servicios y mejorar protocolos de re-engagement
 * Ajustar planes de capacidad según estacionalidad y concentración de servicios clave
-
-Enlace: https://docs.google.com/spreadsheets/d/1rYSs7-24-MS53VNVUyuatEQoEj7Pa49tOcnfWxHh2ZY/edit?usp=sharing
-
 
